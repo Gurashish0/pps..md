@@ -102,28 +102,6 @@ return 0;
 ```
 ```c
 #include<stdio.h>
-
-int main()
-{
-
-int num;
-printf("Enter any number: \n");
-scanf("%d",&num);
-
-if(num>0)
-printf("%d is positive number \n",num );
-
-else if(num<0)
-printf("%d is negative number \n",num );
-
-else
-printf("You have entered value zero \n");
-
-return 0;
-}
-```
-```c
-#include<stdio.h>
 int main()
 {
 int last;
