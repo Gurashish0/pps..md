@@ -1,7 +1,11 @@
-#PPS#
-*1921041*
-#hima gandhi#
-#class=IT#
+![](https://ce.gndec.ac.in/sites/default/files/logo.jpg)
+
+____
+# ***PROGRAMMING FOR PROBLEM SOLVING***
+# **NAME** :*HIMA GANDHI*
+### **ROLL NO** : *1921041*
+### **BRANCH** : *INFORMATION TECHNOLOGY*
+ ### **SECTION** : *A2*#PPS#
 ```c
  #include<stdio.h>
 int main()
